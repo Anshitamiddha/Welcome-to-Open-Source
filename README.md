@@ -137,6 +137,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td> 
             <td align="center">
+                <a href="https://github.com/Anshitamiddha">
+                    <img src="https://avatars.githubusercontent.com/u/180018316?v=4" width="100px;"
+                        alt="Anshita Middha" />
+                    <br />
+                    <sub>
+                        <b>Karan Yadav</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/chamuditha6">
                     <img src="https://avatars.githubusercontent.com/u/155380000?v=4" width="100px;"
                         alt="Chamuditha Nonis" />
